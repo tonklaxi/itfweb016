@@ -5,8 +5,8 @@
     <body>
         <h1>Ballondor2020!</h1>
         <p>Jessie Lingard win Ballondor2020</p>
-        <img src="jessie.jpg">
-        <img src="jessie2.jpg">
+        <img src="jessie.jpg" width="300" height="300">
+        <img src="jessie2.jpg" width="300" height="300">
         <br>
         <a href= "https://www.manutd.com/"> Manu official website</a>
         <h2>Breaking news!!!</h2>
