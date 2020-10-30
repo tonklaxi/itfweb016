@@ -6,15 +6,10 @@
         <h1>Ballondor2020!</h1>
         <p>Jessie Lingard win ballondor2020</p>
         <img src="jessie.jpg">
+        <img src="jessie2.jpg">
         <br>
-        <a href= "http://www.it.kmitl.ac.th"> This is a Link</a>
-
-        <h2>The unordered list</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazom</li>
-        </ul>
+        <a href= "https://www.manutd.com/"> Manu official website</a>
+        <p>นาย จักราภัทร สุดใจ 63070016</p>
 
     </body>
 </html>
